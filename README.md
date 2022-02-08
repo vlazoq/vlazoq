@@ -17,6 +17,8 @@
 
 #### Top Technologies
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlazoq)](https://github.com/anuraghazra/github-readme-stats)
+
 <BR>
 
 #### Aditional Information
@@ -25,6 +27,6 @@
 
 #### Github Stats
 
-![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&count_private=true&theme=tokyonight&hide=contribs)
+![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&count_private=true&theme=tokyonight&hide=contribs,stars)
 
-[![vlazoq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlazoq&theme=tokyonight)](https://git.io/streak-stats)
+[![vlazoq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlazoq&theme=tokyonight)](https://git.io/streak-stars)
