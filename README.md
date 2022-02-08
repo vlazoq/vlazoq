@@ -7,12 +7,13 @@
 
 <div>
 
-|:------------------------------------------------------------------|
+
 |:rocket: I'm a self-taught Full-Stack Developer                    |
-|🔭 I’m currently working on: Multiple Projects 			    |
+|:------------------------------------------------------------------|
+|:computer: Most used line of code `git commit -m "Initial Commit"` |
 |🌱 I’m currently learning: Haskell 			            |
 |👯 I’m looking to collaborate on: Web 3.0 Projects 		    |
-|:computer: Most used line of code `git commit -m "Initial Commit"` |
+|🔭 I’m currently working on: Multiple Projects 			    |
 |:mailbox_with_mail: How to reach me: vlazoq@gmail.com 	            |
 |:zap: Fun fact: I'm also an electronics hobbyist.  		    | 
 
