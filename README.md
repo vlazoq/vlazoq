@@ -1,5 +1,4 @@
-<link rel="stylesheet" type = "text/css" href="style.css">
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello there!!">
 
 
 #### Profile Visits 
@@ -25,7 +24,13 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="32" height="32"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/csharp/csharp-original.svg" alt="Csharp" width="30" height="30"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/java/java-original.svg" alt="Java" width="32" height="32"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/matlab/matlab-original.svg" alt="MATLAB" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/html5/html5-original.svg" alt="Html5" width="30" height="30"/>
 
@@ -36,6 +41,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="30" height="30"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/react/react-original.svg" alt="ReactJs" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/express/express-original.svg" alt="Express" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/arduino/arduino-original.svg" alt="Arduino" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/jquery/jquery-original.svg" alt="JQuery" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/d3js/d3js-original.svg" alt="D3js" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/sass/sass-original.svg" alt="SASS" width="30" height="30"/>
+
 
 </div>
 
@@ -48,8 +72,6 @@
 #### Github Stats
 
 <div id="stats">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlazoq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&count_private=true&theme=tokyonight&hide=stars)
 
