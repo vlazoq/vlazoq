@@ -17,7 +17,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-## Tools & Technologies
+##  🛠 &nbsp; Languages & Tools
 
 <div id="langs">
 
@@ -58,9 +58,10 @@
 
 ## Additional Information
 - :paperclip: [My Resume/CV](https://github.com/vlazoq/vlazoq/blob/main/resume/resume_v1.1.pdf)
+- :link: [LinkedIn](https://www.linkedin.com/in/vlazoq)
 - :email: vlazoq@gmail.com
 
-## 📈 Github Stats
+## :chart_with_upwards_trend: Github Stats
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=vlazoq&theme=react-dark)
 
