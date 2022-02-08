@@ -5,8 +5,8 @@
 
 # Hi there, I'm Victor ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello there!!">
 
-
-
+<div>
+<a>
 |:rocket: I'm a self-taught Full-Stack Developer                    |
 |:------------------------------------------------------------------|
 |🔭 I’m currently working on: Multiple Projects 			    |
@@ -15,9 +15,11 @@
 |:computer: Most used line of code `git commit -m "Initial Commit"` |
 |:mailbox_with_mail: How to reach me: vlazoq@gmail.com 	            |
 |:zap: Fun fact: I'm also an electronics hobbyist.  		    | 
-
-
+</a>
+<a>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="170" />
+</a>
+</div>
 
 ## Languages & Tools
 
