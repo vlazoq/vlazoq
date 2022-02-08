@@ -7,7 +7,7 @@
 
 <div>
 
-<img align="right" alt="GIF" style='height: 50%; object-fit: contain' src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" />
+<img align="right" alt="GIF" style='height: 50%' src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" />
 
 ### About Me
 
