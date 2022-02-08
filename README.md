@@ -9,7 +9,7 @@
 <a>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="200"/>
 <a>
-<a>
+
 ### About Me
 
 |:rocket: I'm a self-taught Full-Stack Developer                    |
@@ -21,7 +21,7 @@
 |:mailbox_with_mail: How to reach me: vlazoq@gmail.com 	            |
 |:zap: Fun fact: I'm also an electronics hobbyist.  		    | 
 
-</a>
+
 
 
 </div>
