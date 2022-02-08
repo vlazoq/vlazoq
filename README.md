@@ -8,10 +8,13 @@
 <div>
 
 <p>
+<BR>
 <img align="right" padding-top="20" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="200"/>
 <p>
 
 ### About Me
+
+<p>
 
 |:rocket: I'm a self-taught Full-Stack Developer                    | 
 |:------------------------------------------------------------------|
@@ -23,7 +26,7 @@
 |:zap: Fun fact: I'm also an electronics hobbyist.  		    |
 | --- | --- | 
 
-
+<p>
 
 
 </div>
