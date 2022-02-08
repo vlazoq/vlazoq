@@ -18,7 +18,7 @@
 |:zap: Fun fact: I'm also an electronics hobbyist.  		    | 
 
 <a>
-<img style='height: 20%; width: 20%; object-fit: contain'alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" />
+<img align="right" style='height: 20%; width: 20%; object-fit: contain'alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" />
 </a>
 </div>
 
