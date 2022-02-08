@@ -1,8 +1,8 @@
 
 # vlazoq
 
-#### Biz
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+#### Aditional Information
+- :paperclip: [My Resume/CV](https://github.com/vlazoq/vlazoq/blob/main/resume/resume_v1.1.pdf)
 - :email: vlazoq@gmail.com
 
 #### Profile Visits 
