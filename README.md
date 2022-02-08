@@ -1,35 +1,27 @@
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vlazoq.visitor-badge)
-
 
 
 # Hi there, I'm Victor ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello there!!">
 
-<div>
-
-<p>
-<BR>
 <img align="right" padding-top="20" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="200"/>
-<p>
 
 ### About Me
 
-<p>
+:rocket: I'm a self-taught Full-Stack Developer                 
 
-|:rocket: I'm a self-taught Full-Stack Developer                    | 
-|:------------------------------------------------------------------|
-|:computer: Most used line of code `git commit -m "Initial Commit"` | 
-|🌱 I’m currently learning: Haskell 			            |
-|👯 I’m looking to collaborate on: Web 3.0 Projects 		    |
-|🔭 I’m currently working on: Multiple Projects 			    |
-|:mailbox_with_mail: How to reach me: vlazoq@gmail.com 	            |
-|:zap: Fun fact: I'm also an electronics hobbyist.  		    |
-| --- | --- | 
+:computer: Most used line of code `git commit -m "Initial Commit"`
+ 
+🌱 I’m currently learning: Haskell
+ 			            
+👯 I’m looking to collaborate on: Web 3.0 Projects
+		    
+🔭 I’m currently working on: Multiple Projects
+			    
+:mailbox_with_mail: How to reach me: vlazoq@gmail.com
+            
+:zap: Fun fact: I'm also an electronics hobbyist.		    
 
-<p>
-
-
-</div>
+<BR>
 
 ## Languages & Tools
 
