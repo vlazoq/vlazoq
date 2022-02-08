@@ -57,7 +57,7 @@
 <BR>
 
 ## Additional Information
-- :paperclip:  [My Resume/CV](https://github.com/vlazoq/vlazoq/blob/main/resume/resume_v1.1.pdf)
+- :paperclip:  [ My Resume/CV](https://github.com/vlazoq/vlazoq/blob/main/resume/resume_v1.1.pdf)
 - :link: [LinkedIn](https://www.linkedin.com/in/vlazoq)
 - :email: vlazoq@gmail.com
 
