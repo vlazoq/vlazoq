@@ -39,14 +39,6 @@
 
 <BR>
 
-<div id="langStats">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlazoq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<BR>
-
 #### Additional Information
 - :paperclip: [My Resume/CV](https://github.com/vlazoq/vlazoq/blob/main/resume/resume_v1.1.pdf)
 - :email: vlazoq@gmail.com
@@ -54,6 +46,8 @@
 #### Github Stats
 
 <div id="stats">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlazoq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&count_private=true&theme=tokyonight&hide=stars)
 
