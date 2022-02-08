@@ -64,7 +64,7 @@
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=vlazoq&theme=react-dark)
 
-| ![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&show_icons=true&theme=tokyonight&hide=stars) | ![vlazoq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlazoq&theme=tokyonight) |
+| ![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&show_icons=true&theme=tokyonight) | ![vlazoq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlazoq&theme=tokyonight) |
 | --- | --- |
 
 
