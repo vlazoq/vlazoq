@@ -30,8 +30,6 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/matlab/matlab-original.svg" alt="Matlab" width="30" height="30"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/html5/html5-original.svg" alt="Html5" width="30" height="30"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
@@ -44,13 +42,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/express/express-original.svg" alt="Express" width="30" height="30"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/arduino/arduino-original.svg" alt="Arduino" width="30" height="30"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/jquery/jquery-original.svg" alt="JQuery" width="30" height="30"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/d3js/d3js-original.svg" alt="D3js" width="30" height="30"/>
 
