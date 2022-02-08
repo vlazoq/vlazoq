@@ -62,12 +62,6 @@
 
 ## 📈 Github Stats
 
-<div id="stats">
-
-
-
-| ![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&count_private=true&theme=tokyonight&hide=stars) | [![vlazoq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlazoq&theme=tokyonight)](https://git.io/streak-stars) |
+| ![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&show_icons=true&count_private=true&theme=tokyonight&hide=stars) | [![vlazoq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlazoq&theme=tokyonight)](https://git.io/streak-stars) |
 | --- | --- |
 
-
-</div>
