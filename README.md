@@ -17,6 +17,8 @@
 
 #### Top Technologies
 
+<div id="langs">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/c/c-original.svg" alt="C" width="32" height="32"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="32" height="32"/>
@@ -33,11 +35,15 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/react/react-original.svg" alt="ReactJs" width="30" height="30"/>
 
-
+</div>
 
 <BR>
 
+<div id="langStats">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlazoq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <BR>
 
@@ -47,6 +53,10 @@
 
 #### Github Stats
 
+<div id="stats">
+
 ![vlazoq's Github Stats](https://github-readme-stats.vercel.app/api?username=vlazoq&count_private=true&theme=tokyonight&hide=stars)
 
 [![vlazoq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlazoq&theme=tokyonight)](https://git.io/streak-stars)
+
+</div>
