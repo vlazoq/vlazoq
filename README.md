@@ -18,6 +18,7 @@
 #### Top Technologies
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/c/c-original.svg" alt="c" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/vlazoq/devicon/master/icons/c/c-original.svg alt="c" width="32" height="32"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="32" height="32"/>
 
