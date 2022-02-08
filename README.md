@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/java/java-original.svg" alt="java" width="32" height="32"/>
 
 <img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="html" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/html5/html5-original.svg
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
 
