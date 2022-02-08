@@ -17,7 +17,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-##  🛠 &nbsp; Languages & Tools
+## Languages & Tools
 
 <div id="langs">
 
@@ -61,7 +61,7 @@
 - :link: [LinkedIn](https://www.linkedin.com/in/vlazoq)
 - :email: vlazoq@gmail.com
 
-## :chart_with_upwards_trend: Github Stats
+## Github Stats
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=vlazoq&theme=react-dark)
 
