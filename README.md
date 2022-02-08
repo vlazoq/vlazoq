@@ -7,12 +7,9 @@
 
 <div>
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" />
 
-
-<img style='height: 20%; width: 20%; object-fit: contain' alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" />
-
-
-
+### About Me
 
 |:rocket: I'm a self-taught Full-Stack Developer                    |
 |:------------------------------------------------------------------|
