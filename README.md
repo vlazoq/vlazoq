@@ -23,8 +23,6 @@
 - :paperclip: [My Resume/CV](https://github.com/vlazoq/vlazoq/blob/main/resume/resume_v1.1.pdf)
 - :email: vlazoq@gmail.com
 
-<BR>
-
 #### Github Stats
 
 ![vlazoq's github stats](https://github-readme-stats.vercel.app/api?username=vlazoq&count_private=true&theme=tokyonight&hide=contribs)
