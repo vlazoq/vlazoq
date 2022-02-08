@@ -3,7 +3,7 @@
 
 ## Weekly Profile Visits 
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vlazoq.visitor-badge) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vlazoq.visitor-badge)
 
 <BR>
 
