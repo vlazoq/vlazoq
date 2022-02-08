@@ -1,12 +1,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vlazoq.visitor-badge)
 
-<div align="center">
+
 
 # Hi there, I'm Victor ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello there!!">
 
 
-</div>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="170" />
 
@@ -58,7 +57,7 @@
 <BR>
 
 ## Additional Information
-- :paperclip: [My Resume/CV](https://github.com/vlazoq/vlazoq/blob/main/resume/resume_v1.1.pdf)
+- :paperclip:  [My Resume/CV](https://github.com/vlazoq/vlazoq/blob/main/resume/resume_v1.1.pdf)
 - :link: [LinkedIn](https://www.linkedin.com/in/vlazoq)
 - :email: vlazoq@gmail.com
 
