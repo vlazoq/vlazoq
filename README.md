@@ -7,14 +7,15 @@
 
 <div>
 
-
-
+<p>
+<img align="right" padding-top="20" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="200"/>
+<p>
 
 ### About Me
 
 |:rocket: I'm a self-taught Full-Stack Developer                    | 
 |:------------------------------------------------------------------|
-|:computer: Most used line of code `git commit -m "Initial Commit"` | <img align="right" padding-top="20" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="200"/>
+|:computer: Most used line of code `git commit -m "Initial Commit"` | 
 |🌱 I’m currently learning: Haskell 			            |
 |👯 I’m looking to collaborate on: Web 3.0 Projects 		    |
 |🔭 I’m currently working on: Multiple Projects 			    |
