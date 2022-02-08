@@ -1,4 +1,6 @@
+<link rel="stylesheet" type = "text/css" href="style.css">
 ### Hi there 👋
+
 
 #### Profile Visits 
 
@@ -15,7 +17,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#### Top Technologies
+#### Tools & Technologies
 
 <div id="langs">
 
