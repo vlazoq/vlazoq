@@ -29,11 +29,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="30" height="30"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJs" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/react/react-original.svg" alt="react" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/react/react-original.svg" alt="ReactJs" width="30" height="30"/>
 
 
 
