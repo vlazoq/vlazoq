@@ -7,11 +7,11 @@
 
 ### About Me
 
-:rocket: I'm a self-taught Full-Stack Developer                 
+:rocket: I'm a self-taught Software Developer                 
 
 :computer: Most used line of code `git commit -m "Initial Commit"`
  
-🌱 I’m currently learning: Haskell
+🌱 I’m currently learning: System Design Patterns 
  			            
 👯 I’m looking to collaborate on: Web 3.0 Projects
 		    			    
