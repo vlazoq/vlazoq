@@ -15,7 +15,7 @@
  			            
 👯 I’m looking to collaborate on: Web 3.0 Projects
 		    			    
-:mailbox_with_mail: How to reach me: vlazoq@gmail.com
+:mailbox_with_mail: How to reach me: vlazoq@yahoo.com
             
 :zap: Fun fact: I'm also an electronics hobbyist.		    
 
@@ -61,7 +61,7 @@
 <BR>
 
 ## Additional Information
-- :email: vlazoq@gmail.com
+- :email: vlazoq@yahoo.com
 
 <BR>
 
